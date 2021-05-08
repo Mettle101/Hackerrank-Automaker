@@ -1,0 +1,1 @@
+# An automation script that adds the user as a moderator in all the challenges created by the user . It uses Puppeteer to interact with the browser dev tools to automate the browser. 
